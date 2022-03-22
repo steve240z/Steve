@@ -1,0 +1,11 @@
+Model Information:
+* title:	Yoda Buddah
+* source:	https://sketchfab.com/3d-models/yoda-buddah-c9dfd74bbc8e4a28b9a6331c74db93d0
+* author:	AussiePie (https://sketchfab.com/AussiePie)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Yoda Buddah" (https://sketchfab.com/3d-models/yoda-buddah-c9dfd74bbc8e4a28b9a6331c74db93d0) by AussiePie (https://sketchfab.com/AussiePie) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
